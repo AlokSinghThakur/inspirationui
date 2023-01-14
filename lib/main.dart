@@ -40,7 +40,7 @@ class _HomePageState extends State<HomePage> {
                 child: IconButton(
                   onPressed: () {    },
                   icon: const Icon(
-                    Icons.video_call,
+                    Icons.add_box,
                     color: Colors.black87,
                     size: 77,
                   ),
